@@ -3,10 +3,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=alguerre.alguerre)
 
 
+
+**Talking about Personal Stuffs:**
+- 👨🏻‍💻 I’m currently working [TrackEditorWeb](https://github.com/TrackEditor/TrackEditorWeb);
+- 📫 How to reach me: alguerre@outlook.com;
+- 📝 [Resume](https://1drv.ms/b/s!AtETcF8cmh1Fg7UKBTwOlXeJdOCA_g)
+
 <!-- [![Alguerre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alguerre)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 📈 **My GitHub Stats:**
 
 <p>
