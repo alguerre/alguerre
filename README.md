@@ -2,7 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-guerrero/)
 ![](https://visitor-badge.glitch.me/badge?page_id=alguerre.alguerre)
 
-[![Alguerre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alguerre)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Alguerre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alguerre)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -10,9 +11,10 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alguerre&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alguerre&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alguerre&exclude_repo=SynthPi&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+-->
 
 <!-- examples
   https://github.com/Gapur/Gapur#readme
