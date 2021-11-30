@@ -7,7 +7,7 @@
 **Talking about Personal Stuffs:**
 - 👨🏻‍💻 I’m currently working [TrackEditorWeb](https://github.com/TrackEditor/TrackEditorWeb);
 - 📫 How to reach me: alguerre@outlook.com;
-- 📝 [Resume](https://1drv.ms/b/s!AtETcF8cmh1Fg7UKBTwOlXeJdOCA_g)
+- 📝 [Resume](https://cv-alonso.s3.eu-west-3.amazonaws.com/Alonso+_Guerrero_Llorente_software.pdf)
 
 <!-- [![Alguerre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alguerre)](https://github.com/anuraghazra/github-readme-stats)
 📈 **My GitHub Stats:**
