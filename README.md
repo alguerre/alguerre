@@ -4,7 +4,7 @@
 
 
 
-**Talking about Personal Stuffs:**
+<!-- **Talking about Personal Stuffs:** -->
 - 👨🏻‍💻 I’m currently working [TrackEditorWeb](https://github.com/TrackEditor/TrackEditorWeb);
 - 📫 How to reach me: alguerre@outlook.com;
 - 📝 [Resume](https://cv-alonso.s3.eu-west-3.amazonaws.com/Alonso+_Guerrero_Llorente_software.pdf)
